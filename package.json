@@ -2,6 +2,11 @@
   "name": "downloadYoutubeVideos",
   "version": "1.0.0",
   "module": "commonjs",
+  "keywords": [
+    "youtube",
+    "download",
+    "videos"
+  ],
   "scripts": {
     "start": "node downloadVideo.js"
   },
