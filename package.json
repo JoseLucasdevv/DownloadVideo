@@ -1,0 +1,14 @@
+{
+  "name": "downloadYoutubeVideos",
+  "version": "1.0.0",
+  "module": "commonjs",
+  "scripts": {
+    "start": "node downloadVideo.js"
+  },
+  "main": "downloadVideo.js",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "ytdl-core": "^4.11.5"
+  }
+}
